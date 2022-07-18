@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "コードギアス 反逆のルルーシュR2",
+      "year": 2008,
+      "quarter": 1
+    },
+    {
+      "title": "ACCA13区監察課",
+      "year": 2017,
+      "quarter": 4
+    },
+    {
+      "title": "ヴィンランド・サガ",
+      "year": 2019,
+      "quarter": 3
+    },
+    {
+      "title": "私に天使が舞い降りた！",
+      "year": 2019,
+      "quarter": 4
+    },
+    {
+      "title": "宇崎ちゃんは遊びたい！",
+      "year": 2020,
+      "quarter": 2
+    },
+    {
+      "title": "ゴールデンカムイ 第三期",
+      "year": 2020,
+      "quarter": 3
+    },
+    {
+      "title": "マブラヴ オルタネイティヴ",
+      "year": 2021,
+      "quarter": 3
+    },
+    {
+      "title": "呪術廻戦 京都姉妹校交流会編",
+      "year": 2021,
+      "quarter": 4
+    },
+    {
+      "title": "東京リベンジャーズ ８・３抗争編",
+      "year": 2021,
+      "quarter": 4
+    },
+    {
       "title": "明日ちゃんのセーラー服",
       "year": 2022,
       "quarter": 4
@@ -234,6 +279,652 @@
       "title": "リーマンズクラブ",
       "year": 2022,
       "quarter": 4
+    },
+    {
+      "title": "RPG不動産",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "アオアシ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "阿波連さんははかれない",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "インセクトランド",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ヴァンパイア・イン・ザ・ガーデン",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ULTRAMAN シーズン2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "エスタブライフ グレイトエスケープ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "乙女ゲー世界はモブに厳しい世界です",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "おにぱん！",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "骸骨騎士様、只今異世界へお出掛け中",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "かぎなど シーズン2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "かぐや様は告らせたい-ウルトラロマンティック-",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "カッコウの許嫁",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "可愛いだけじゃない式守さん",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "キャップ革命 ボトルマンDX",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "境界戦機",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "キングダム 第4シリーズ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ググミちゃん",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "くノ一ツバキの胸の内",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "群青のファンファーレ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "湖池屋SDGs劇場 サスとテナ シーズン2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "恋は世界征服のあとで",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "攻殻機動隊 SAC_2045 シーズン2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "極主夫道 パート2",
+      "twitter": null,
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "コタローは1人暮らし",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "このヒーラー、めんどくさい",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "古見さんは、コミュ症です。2期",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "サマータイムレンダ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "3秒後、野獣。～合コンで隅にいた彼は淫らな肉食でした",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "Shenmue the Animation",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "史上最強の大魔王、村人Aに転生する",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "社畜さんは幼女幽霊に癒されたい。",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "シャドウバース F",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "じゃんたま PONG☆",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "処刑少女の生きる道",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "真・一騎当千",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "SPY×FAMILY",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "スプリガン",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "其れ、則ちスケッチ。",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "TIGER & BUNNY 2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "盾の勇者の成り上がり Season2",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ダンス・ダンス・ダンスール",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ちいかわ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "であいもん",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "デート・ア・ライブIV",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "デュエル・マスターズ キングMAX",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "テルマエ・ロマエ ノヴァエ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "トミカヒーローズ ジョブレイバー 特装合体ロボ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "トモダチゲーム",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "なならき～Seven Lucky Gods～",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "にゃんかむちゅ～",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "BIRDIE WING -Golf Girls’ Story-",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "爆丸エボリューションズ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "パリピ孔明",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ヒーラー・ガール",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ビルディバイド -FFFFFF-",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ヒロインたるもの！～嫌われヒロインと内緒のお仕事～",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ブラック★★ロックシューター DAWN FALL",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません 第3期",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "まちカドまぞく 2丁目",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "魔法使い黎明期",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ミラキュラス レディバグ＆シャノワール",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "名探偵コナン ゼロの日常",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "もっと！まじめにふまじめ かいけつゾロリ 第3シリーズ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "八十亀ちゃんかんさつにっき 4さつめ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "遊☆戯☆王ゴーラッシュ！！",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "勇者、辞めます",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ラブオールプレー",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 第2期",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "理系が恋に落ちたので証明してみた。r=1-sinθ",
+      "year": 2022,
+      "quarter": 1
+    },
+    {
+      "title": "iiiあいすくりん2",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "異世界おじさん",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "異世界迷宮でハーレムを",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "異世界薬局",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "うたわれるもの 二人の白皇",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ウルトラマンデッカー",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "Extreme Hearts",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "Engage Kiss",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "オーバーロードIV",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "オリエント 淡路島激闘編",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "カードファイト!! ヴァンガード will+Dress",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "賭ケグルイ双",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "彼女、お借りします 第2期",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "神クズ☆アイドル",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "金装のヴェルメイユ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "組長娘と世話係",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "黒の召喚士",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "KJファイル",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "5億年ボタン【公式】～菅原そうたのショートショート～",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "最近雇ったメイドが怪しい",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "シャインポスト",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "邪神ちゃんドロップキックX",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "シャドーハウス 2nd Season",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "シュート！Goal to the Future",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "新テニスの王子様 U-17 WORLD CUP",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "世界の終わりに柴犬と",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "それでも歩は寄せてくる",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ちみも",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "D4DJ Double Mix",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "てっぺんっ!!!!!!!!!!!!!!!",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "東京ミュウミュウ にゅ～♡",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "Dr.STONE 龍水",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "BASTARD!!―暗黒の破壊神―",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "はたらく魔王さま！！",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ハナビちゃんは遅れがち",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "BanG Dream! Morfonication",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "風都探偵",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ブッチギレ！",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "プリマドール",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "惑星のさみだれ",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "継母の連れ子が元カノだった",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "むさしの！",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "メイドインアビス 烈日の黄金郷",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "メガトン級ムサシ シーズン1特別篇",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "森のくまさん、冬眠中。",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ユーレイデコ",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ようこそ実力至上主義の教室へ 2nd Season",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "よふかしのうた",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "夜は猫といっしょ",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ラブライブ！スーパースター!! 第2期",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "リコリス・リコイル",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "RWBY 氷雪帝国",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "連盟空軍航空魔法音楽隊ルミナスウィッチーズ",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "ROLY POLY PEOPLES",
+      "year": 2022,
+      "quarter": 2
+    },
+    {
+      "title": "咲う アルスノトリア すんっ！",
+      "year": 2022,
+      "quarter": 2
     }
   ]
 }
